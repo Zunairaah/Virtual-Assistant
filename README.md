@@ -1,1 +1,1 @@
-# Virtual-Assistant
+This code is a basic implementation of a virtual assistant that can listen to voice commands and perform various actions, such as playing a video, telling the time or date, opening a file, answering questions, etc
